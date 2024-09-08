@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework> <!-- Use .NET of specific version -->
+    <RootNamespace>cs_netcore_project_hello</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings> <!-- Implicit global usings -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
