@@ -1,0 +1,15 @@
+C:\Users\ag\source\repos\cs-netcore-project-hello\bin\Debug\net8.0\cs-netcore-project-hello.exe
+C:\Users\ag\source\repos\cs-netcore-project-hello\bin\Debug\net8.0\cs-netcore-project-hello.deps.json
+C:\Users\ag\source\repos\cs-netcore-project-hello\bin\Debug\net8.0\cs-netcore-project-hello.runtimeconfig.json
+C:\Users\ag\source\repos\cs-netcore-project-hello\bin\Debug\net8.0\cs-netcore-project-hello.dll
+C:\Users\ag\source\repos\cs-netcore-project-hello\bin\Debug\net8.0\cs-netcore-project-hello.pdb
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\cs-netcore-project-hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\cs-netcore-project-hello.AssemblyInfoInputs.cache
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\cs-netcore-project-hello.AssemblyInfo.cs
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\cs-netcore-project-hello.csproj.CoreCompileInputs.cache
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\cs-netcore-project-hello.sourcelink.json
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\cs-netcore-project-hello.dll
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\refint\cs-netcore-project-hello.dll
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\cs-netcore-project-hello.pdb
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\cs-netcore-project-hello.genruntimeconfig.cache
+C:\Users\ag\source\repos\cs-netcore-project-hello\obj\Debug\net8.0\ref\cs-netcore-project-hello.dll
